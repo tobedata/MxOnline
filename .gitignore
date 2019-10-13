@@ -102,3 +102,11 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+### 新增  ###
+# Sublime project settings
+*.sublime-project
+*.sublime-workspace
+
+# VScode project settings
+.vscode
